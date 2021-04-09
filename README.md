@@ -1,4 +1,4 @@
-# Getting Started with Affidavit_Frontend
+# Getting Started
 
 
 ## Available Scripts
