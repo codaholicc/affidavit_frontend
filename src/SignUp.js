@@ -1,9 +1,7 @@
 import withRoot from './modules/withRoot';
 // --- Post bootstrap -----
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import Grid from '@material-ui/core/Grid';
-import Link from '@material-ui/core/Link';
+import { Grid, Link, makeStyles } from '@material-ui/core';
 import { Field, Form, FormSpy } from 'react-final-form';
 import Typography from './modules/components/Typography';
 import AppFooter from './modules/views/AppFooter';
@@ -57,7 +55,7 @@ function SignUp() {
             Sign Up
           </Typography>
           <Typography variant="body2" align="center">
-            <Link href="/premium-themes/onepirate/sign-in/" underline="always">
+            <Link href="/sign-in/" underline="always">
               Already have an account?
             </Link>
           </Typography>
