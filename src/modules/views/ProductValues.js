@@ -59,7 +59,7 @@ function ProductValues(props) {
               </Typography>
               <Typography variant="h5">
                 {'From change of name affidavit to affidavit of citizenship'}
-                {', we make sure you get it without any difficulty.'}
+                {', processing it will be stress-free.'}
               </Typography>
             </div>
           </Grid>
@@ -75,7 +75,7 @@ function ProductValues(props) {
               </Typography>
               <Typography variant="h5">
                 {'Recall an affidavit at any time before you continue processing… '}
-                {'Apply at any time and any day of week.'}
+                {'Apply any time, any day.'}
               </Typography>
             </div>
           </Grid>
