@@ -40,7 +40,7 @@ function ProductHero(props) {
         Affidavit With Ease
       </Typography>
       <Typography color="inherit" align="center" variant="h5" className={classes.h5}>
-        Apply and get your affidavit from the comfort of your home.
+        Apply and get your affidavit without any form of hassle.
       </Typography>
       <Button
         color="secondary"
