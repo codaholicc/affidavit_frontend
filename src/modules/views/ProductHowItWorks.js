@@ -87,7 +87,7 @@ function ProductHowItWorks(props) {
                   className={classes.image}
                 />
                 <Typography variant="h5" align="center">
-                  Choose if you want it delivered to your doorstep or if you want to pick it up yourself.
+                  Ability to preview your application before it is processed.
                 </Typography>
               </div>
             </Grid>
@@ -100,8 +100,8 @@ function ProductHowItWorks(props) {
                   className={classes.image}
                 />
                 <Typography variant="h5" align="center">
-                  {'No need to redo your affidavit if it gets lost. '}
-                  {'With a token we can issue another one for you.'}
+                  {'Correct any typographical error during preview'}
+                  {'.'}
                 </Typography>
               </div>
             </Grid>
